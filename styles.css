@@ -8,6 +8,7 @@ img {
     max-width: 100%;
     display: block;
     height: auto;
+    border-radius: 50%;
 }
 
 .main-container {
@@ -58,4 +59,52 @@ img {
 .sidebar-shortcuts, .sidebar-ssp {
     display: grid;
     gap: 25px;
+}
+
+.header {
+    background-color: rgb(22, 22, 22);
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    padding: 20px 40px;
+    gap: 10px;
+    row-gap: 20px;
+}
+
+.search-container {
+    display: grid;
+    grid-template-columns: 25px 1fr;
+    gap: 20px;
+    align-items: center;
+}
+.search-container input {
+    border-radius: 10px;
+    height: 1.5em;
+    border: 0.5px solid black;
+    background-color: rgb(46, 46, 46);
+}
+.search-icon {
+    filter: invert(52%) sepia(98%) saturate(1966%) hue-rotate(355deg) brightness(92%) contrast(101%);
+}
+
+.profile-container {
+    display: grid;
+    grid-template-columns: 1fr 45px 1fr;
+    align-items: center;
+    gap: 30px;
+    color: rgb(189, 195, 196);
+}
+.notification-icon {
+    justify-self: end;
+    filter: invert(52%) sepia(98%) saturate(1966%) hue-rotate(355deg) brightness(92%) contrast(101%);
+    width: 1.5rem;
+}
+
+.greeting-container {
+    display: grid;
+    grid-template-columns: 70px 1fr;
+    gap: 20px;
+    color:rgb(189, 195, 196);
+}
+.greeting-container div {
+    padding-top: 12px;
 }
