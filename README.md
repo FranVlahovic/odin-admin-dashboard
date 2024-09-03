@@ -42,5 +42,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For more details, visit the [repository on GitHub](https://github.com/FranVlahovic/odin-admin-dashboard).
 
 ---
-
-To include an image in the README, replace `path/to/your/image.png` with the correct path to an image that represents your project. If you don't have an image, you can omit that part. Let me know if you need any further adjustments!
