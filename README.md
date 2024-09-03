@@ -2,7 +2,8 @@
 
 This repository contains a project from The Odin Project, focusing on building an admin dashboard using HTML and CSS.
 
-![Admin Dashboard Preview](path/to/your/image.png)
+[screencapture-127-0-0-1-5500-index-html-2024-09-03-19_13_49](https://github.com/user-attachments/assets/09446925-45c0-440b-ac4f-e4d957bf3b71)
+
 
 ## Table of Contents
 - [Description](#description)
